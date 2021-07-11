@@ -3,6 +3,8 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+
     <link href="bootstrap/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
     <script src="appml.js"></script>
 
@@ -45,7 +47,7 @@
     <div class="container p-5" appml-data="products.js" id="products">
       <div class="row justify-content-center">
         <div class="col-md-4" appml-repeat="products">
-          <div class="card mb-4 shadow rounded-end">
+          <div class="card mb-4 shadow rounded-end" data-aos="fade-in" data-aos-delay="100">
             <img src="{{cover}}" class="card-img-top" alt="{{nama}}">
             <div class="card-body">
               <h5 class="card-title">{{nama}}</h5>
@@ -123,6 +125,12 @@
       <p>instagram</p>
     </div>
     <!-- contact end -->
+    
+  <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+  <script>
+    AOS.init();
+  </script>
+
 
     <script src="bootstrap/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
   </body>
