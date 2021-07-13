@@ -9,9 +9,9 @@
       "stock" : 1,
       "merek" : "Grimloc",
       "bahan" : "Katun",
-      "cover": "products/hmcd1-1.jpg",
-      "gbr1" : "products/hmcd1-2.jpg",
-      "gbr2" : "products/hmcd1-3.jpg",
+      "cover": "products/hmcd1-1.webp",
+      "gbr1" : "products/hmcd1-2.webp",
+      "gbr2" : "products/hmcd1-3.webp",
       "shopee" : "https://shopee.co.id/Original-kaos-Homicide-Godzkilla-Necronometry-i.216352831.9668656195"   
     },
     {
@@ -24,9 +24,9 @@
       "stock" : 1,
       "merek" : "Grimloc",
       "bahan" : "Katun",
-      "cover": "products/hmcd2-1.jpg",
-      "gbr1" : "products/hmcd2-2.jpg",
-      "gbr2" : "products/hmcd2-3.jpg",
+      "cover": "products/hmcd2-1.webp",
+      "gbr1" : "products/hmcd2-2.webp",
+      "gbr2" : "products/hmcd2-3.webp",
       "shopee" : "https://shopee.co.id/Original-Kaos-Homicide-i.216352831.2969666258"
     },
     {
@@ -39,9 +39,9 @@
       "stock" : 1,
       "merek" : "Uprock 83",
       "bahan" : "Katun",
-      "cover": "products/hmcd3-1.jpg",
-      "gbr1" : "products/hmcd3-2.jpg",
-      "gbr2" : "products/hmcd3-3.jpg",
+      "cover": "products/hmcd3-1.webp",
+      "gbr1" : "products/hmcd3-2.webp",
+      "gbr2" : "products/hmcd3-3.webp",
       "shopee" : "https://shopee.co.id/BARU-Original-Kaos-Homicide-10th-year-Illsurrekshun-i.216352831.9768666849"
     },
     {
@@ -53,10 +53,10 @@
       "kondisi" : "Bekas",
       "stock" : 1,
       "bahan": "bookpaper",
-      "cover" : "products/catna1-1.jpg",
-      "gbr1" : "products/catna1-2.jpg",
-      "gbr2" : "products/catna1-3.jpg",
-      "gbr3" : "products/catna1-4.jpg",
+      "cover" : "products/catna1-1.webp",
+      "gbr1" : "products/catna1-2.webp",
+      "gbr2" : "products/catna1-3.webp",
+      "gbr3" : "products/catna1-4.webp",
       "shopee" : "https://shopee.co.id/ORI-TANDA-TANGAN-Catatan-Najwa-Najwa-Shihab-i.216352831.11612484262"
     },
     {
@@ -68,9 +68,9 @@
       "kondisi" : "Bekas",
       "stock" : 1,
       "bahan": "bookpaper",
-      "cover": "products/teor1-1.jpg",
-      "gbr1" : "products/teor1-2.jpg",
-      "gbr2" : "products/teor1-3.jpg",
+      "cover": "products/teor1-1.webp",
+      "gbr1" : "products/teor1-2.webp",
+      "gbr2" : "products/teor1-3.webp",
       "shopee" : "https://shopee.co.id/buku-TEROR-ORDE-BARU-(PRELOVED)-i.216352831.10110530261"
     }
   ]
